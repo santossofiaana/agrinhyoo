@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background-color: #6c9a8b;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 1rem;
+    color: white;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+    background-color: white;
+    margin: 1rem;
+    border-radius: 8px;
+  }
+  
+  .galeria {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .galeria img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+  }
+  
